@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "billing_cycle"
+  data:
+    mongodb:
+      uri: mongodb+srv://rajugharti00000:Chills360!@billing-cycle.dgkue.mongodb.net/?retryWrites=true&w=majority&appName=Billing-Cycle
+      database: Billing-Cycle
